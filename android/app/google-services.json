@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "820244556849",
+    "project_id": "fcm-rc168",
+    "storage_bucket": "fcm-rc168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820244556849:android:910aecd4d3aa2794fb7910",
+        "android_client_info": {
+          "package_name": "com.ismartomo.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ81SudJ17nne0KKsOHoLSsvr7dlty7kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820244556849:android:68e81bcb3af72d4cfb7910",
+        "android_client_info": {
+          "package_name": "com.rc168.rc168"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ81SudJ17nne0KKsOHoLSsvr7dlty7kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
